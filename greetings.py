@@ -1,4 +1,4 @@
-x = raw_input("What is the time?")
+x = int(raw_input("What is the time?"))
 
 if x<10:
     print "Good Morning: Have a pretty day ahead"
