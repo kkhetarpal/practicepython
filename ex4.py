@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #exercise 4: Divisors :: Create a program that asks the user for a
 #number and then prints out a list of all the divisors of that
 #number. (If you don't know what a divisor is, it is a number that
@@ -13,8 +12,3 @@ for i in all:
         divisors.append(i)
 print " The number" + 'num' + "has the following divisors:"  
 print divisors
-       
-=======
-#Testing git from home laptop 
-#write ex4 here 
->>>>>>> 6ea0f9ec5010b27272410cf4024e9be2aa37e3d5
